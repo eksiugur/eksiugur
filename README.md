@@ -1,16 +1,20 @@
-## Hi there 👋
+# Merhaba, ben Uğur 👋
 
-<!--
-**eksiugur/eksiugur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yaş**: 25  
+**Konum**: İstanbul/Pendik
 
-Here are some ideas to get you started:
+## Hakkımda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ben Uğur, Full Stack Web Developer olarak çeşitli projelerde aktif rol aldım. Web geliştirme konusunda geniş bir yelpazede deneyime sahibim ve hem backend hem de frontend geliştirme süreçlerinde uzmanım. Yoğun iş temposuna ve esnek çalışma saatlerine kolayca uyum sağlayabiliyor, takım çalışmasında yüksek performans gösteriyorum.
+
+## Teknik Yetkinlikler
+
+- **Backend:** PHP, Laravel, SQL, Docker, Elasticsearch, Jenkins
+- **Frontend:** HTML, CSS, JavaScript, jQuery, Vue.js
+- **Veritabanı:** MySQL,MongoDB
+- **Diğer Araçlar:** XML, Ajax, Varnish, Redis, Git, Linux, Argo CD
+
+## İletişim
+
+- 📫 **LinkedIn:** [linkedin.com/in/ugurreksi](https://www.linkedin.com/in/ugurreksi/)
+- 🌐 **GitHub:** [github.com/](https://github.com/eksiugur/)
